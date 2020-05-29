@@ -1,0 +1,12 @@
+name: dataprojectApp
+title: dataprojectApp
+username:
+account: shadis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2378749
+bundleId: 3206384
+url: https://shadis.shinyapps.io/dataprojectApp/
+when: 1590787532.04649
+asMultiple: FALSE
+asStatic: FALSE
